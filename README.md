@@ -57,3 +57,6 @@ Dual licensed under the MIT or GPL Version 2 licenses.
 
 This project is based on DatePicker from http://www.eyecon.ro/datepicker/
 This project is distinct from and not affiliated with the jquery.ui.datepicker
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/omids20m/datepicker/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
